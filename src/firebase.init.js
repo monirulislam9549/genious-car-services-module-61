@@ -6,12 +6,12 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBQhk_K-Xp18fopahRpv3ohHzuOGlnZTLA",
-    authDomain: "ema-jhon-simple-8c6a4.firebaseapp.com",
-    projectId: "ema-jhon-simple-8c6a4",
-    storageBucket: "ema-jhon-simple-8c6a4.appspot.com",
-    messagingSenderId: "679384312239",
-    appId: "1:679384312239:web:8bfc38f825f4c87668275a"
+    apiKey: "AIzaSyC95iPpjd71pQjpejV5oFY2MU21ggaiLcc",
+    authDomain: "genious-car-services-4530c.firebaseapp.com",
+    projectId: "genious-car-services-4530c",
+    storageBucket: "genious-car-services-4530c.appspot.com",
+    messagingSenderId: "1024541565672",
+    appId: "1:1024541565672:web:215b75ab55771ed30edf5d"
 };
 
 // Initialize Firebase
